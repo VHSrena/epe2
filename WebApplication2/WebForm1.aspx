@@ -17,7 +17,7 @@
 
             <h1>Cálculo del Promedio Ponderado</h1>
 
-            <h1>Página 1 - Guillermo González / Claudio Ramírez</h1>
+            <h1>Página 1 - Guillermo González C. / Claudio Ramírez P. </h1>
 
             <asp:Label Text="EVA1 (7%):" runat="server" /><br />
             <asp:TextBox ID="EVA1" runat="server" /><br />
