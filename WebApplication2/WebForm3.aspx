@@ -19,15 +19,23 @@
             <h1> Guillermo González / Claudio Ramírez</h1>
             <br /><br />
 
-            <asp:Button ID="btpromedio" runat="server" Text="Ir a Calculo de Promedio Ponderado" OnClick="btpromedio_Click"/>
+            <asp:Button ID="btpromedio" runat="server" Text="Cálculo de Promedio Ponderado" OnClick="btpromedio_Click"/>
             <br /><br />
 
-            <asp:Button ID="BtConcatenar" runat="server" Text="Union de Nombres y Apellidos" OnClick="btconcatenar_Click"/>
+            <asp:Button ID="BtConcatenar" runat="server" Text="Unión de Nombres y Apellidos" OnClick="btconcatenar_Click"/>
             <br /><br />
 
             <asp:Button ID="btFormulario" runat="server" Text="Formulario de Contacto" OnClick="btformulario_Click"/>
             <br /><br />
 
+            <asp:Button ID="btCalculadora" runat="server" Text="Calculadora Operaciones Básicas" OnClick="btcalculadora_Click"/>
+            <br /><br />
+
+            <asp:Button ID="btVariable" runat="server" Text="Ámbito de Variables" OnClick="btvariable_Click"/>
+            <br /><br />
+
+            <asp:Button ID="btArrayVector" runat="server" Text="Arrays y Vectores" OnClick="btarrayvector_Click"/>
+            <br /><br />
 
         </div>
     </form>

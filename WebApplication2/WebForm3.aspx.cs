@@ -29,6 +29,19 @@ namespace WebApplication2
             Response.Redirect("WebForm4.aspx");
         }
 
+        protected void btcalculadora_Click(object sender, EventArgs e)
+        {
+            Response.Redirect("WebForm5.aspx");
+        }
+
+        protected void btvariable_Click(object sender, EventArgs e)
+        {
+            Response.Redirect("WebForm6.aspx");
+        }
+        protected void btarrayvector_Click(object sender, EventArgs e)
+        {
+            Response.Redirect("WebForm7.aspx");
+        }
 
     }
 }

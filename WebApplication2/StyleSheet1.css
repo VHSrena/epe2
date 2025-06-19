@@ -110,3 +110,13 @@ asp\:Button {
 .auto-style3 {
     height: 27px;
 }
+
+#btVariable {
+    background-color: cadetblue;
+    color: white;
+}
+
+#btArrayVector {
+    background-color: darkgreen;
+    color: white;
+}
